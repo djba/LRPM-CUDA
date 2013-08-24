@@ -1,0 +1,9 @@
+#define BLOCK_SIZE 128
+#define R 3
+#define N 512
+#define N_R 401
+#define SIGMA 0.3
+#define Tmin 1.7
+#define Tmax 3.7
+#define MC_therm 20000
+#define MC_prod 100000
